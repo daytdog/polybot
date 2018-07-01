@@ -1,7 +1,12 @@
 exports.run = (bot, message, args) => {
-	 message.delete();
-
 	const config = require('../config.json');
+	
+	if(message.channel.id !== config.botCommandChannel){
+		message.delete(500);
+	}
+	
+	message.reply("I've sent you a DM!")
+	
 
 	message.author.send(`**HELP AND COMMANDS**\n${new Date()}
 PolyBot ${config.version}. Under Development.

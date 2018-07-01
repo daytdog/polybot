@@ -1,8 +1,9 @@
 exports.run = (bot, message, args) => {
 	const config = require('../config.json');
+	if(message.author.id !== config.ownerID) return;
+
 	const Discord = require("discord.js");
 
-	if(message.author.id !== config.ownerID) return;
 	//prevents anyone but owner of the bot from using command.
 
 	if(!args || args.size < 1) {

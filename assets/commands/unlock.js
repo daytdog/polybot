@@ -1,4 +1,6 @@
 exports.run = (bot, message, args) => {
+    if(message.author.id !== config.ownerID) return;
+    
     const config = require('../config.json');
     const Discord = require("discord.js");
 
