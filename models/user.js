@@ -17,7 +17,10 @@ const userSchema = mongoose.Schema({
         type: String,
         required: true
     },
-    points: Number
+    points: Number,
+    xp: Number,
+    xpLevel: Number,
+    punishLevel: Number
 })
 
 var userModel = mongoose.model("User", userSchema)

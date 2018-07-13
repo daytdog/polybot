@@ -4,7 +4,7 @@ exports.run = (bot, message, args) => {
 	if(message.channel.id !== config.botCommandChannel){
 		message.delete(500);
 	}
-	
+
 	message.reply("I've sent you a DM!")
 	
 
@@ -19,6 +19,10 @@ Commands must be used in the #bot-commands channel.
 __Informational Commands__ \n
 \`help\`: Provides a list of commands available to you.
 \`ping\`: Tests the delay between responses from the bot.
+
+__Cookie Commands__
+*Cookies are a currency earned for every message sent in the server.*\n
+\`cookies\`: (Optional: \`<@user>\` or \`<leaderboard>\`): Shows you how many cookies you or another user has.
 `);
 
 	if(message.member.roles.get(config.administratorRoleID)) {

@@ -18,9 +18,11 @@ dbConnection.once('open', function(){
 })
 const User = require("./models/user.js");
 
-//imports functions
+const updatePoints = require("./assets/databaseFunctions.js").updatePoints;
+const checkUser = require("./assets/databaseFunctions.js").checkUser;
+
+//Bot 'utility' funcitons
 const utilFunctions = require("./assets/utilFunctions.js")(bot);
-const updatePoints = require("./assets/clientFunctions.js").updatePoints;
 
 //Events
 bot.on('message', (message) => {  //Triggers every time a message is sent.
@@ -92,6 +94,7 @@ bot.on('ready', () => {
 //New User Joins Event
 bot.on('guildMemberAdd', (member) => {
 	console.log('New user: ' + member.user.username + ' has joined the server!'); 
+	checkUser(member.user.id, member.user.username, member.user.tag);
 
 //Make an embed for every new user join.
 	const nJoin = new Discord.RichEmbed()
@@ -122,8 +125,6 @@ You are now free to chat on the server.\`\`\``)
 Welcome! \`To prevent raids, you are currently on a 30 second join cooldown.\` You will be able to chat the server once the cooldown has ended. In the meantime, we invite you to read the rules.\n
 *My name is PolyBot, and this action was performed automatically. To see my commands, use .help in the #bot-commands room.*`)
 });
-
-
 
 //User Leaves Event
 bot.on('guildMemberRemove', (member) => {

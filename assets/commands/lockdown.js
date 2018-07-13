@@ -3,6 +3,8 @@ exports.run = (bot, message, args) => {
     const config = require('../config.json');
     const Discord = require("discord.js");
     
+    if(!message.member.roles.get(config.administratorRoleID)) return;
+
 // IF arguments aren't provided
     if(args[0] === undefined) {
         message.reply("You must provide a \`channel\` to lockdown or choose \`server\`.");

@@ -16997,3 +16997,1025 @@ Sun Jul 01 2018 03:16:11 GMT-0700 (US Mountain Standard Time) | | I've joined th
 Sun Jul 01 2018 03:16:11 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
 Sun Jul 01 2018 03:22:41 GMT-0700 (US Mountain Standard Time) | | No Points! New user created in database for user: CookiesAlwaysWin#0001
 Sun Jul 01 2018 13:14:23 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Mon Jul 02 2018 13:40:29 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 01:59:39 GMT-0700 (US Mountain Standard Time) | | (node:38408) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 01:59:40 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 01:59:40 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 01:59:49 GMT-0700 (US Mountain Standard Time) | | 0.9184375541796514
+Tue Jul 03 2018 01:59:54 GMT-0700 (US Mountain Standard Time) | | 0.38536670162113795
+Tue Jul 03 2018 02:00:20 GMT-0700 (US Mountain Standard Time) | | 0.4620175473455532
+Tue Jul 03 2018 02:02:24 GMT-0700 (US Mountain Standard Time) | | (node:7000) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 02:02:25 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 02:02:25 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 02:02:33 GMT-0700 (US Mountain Standard Time) | | 0.5076590697349668
+Tue Jul 03 2018 02:04:28 GMT-0700 (US Mountain Standard Time) | | NaN
+Tue Jul 03 2018 02:07:14 GMT-0700 (US Mountain Standard Time) | | (node:18492) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 02:07:15 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 02:07:15 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 02:09:54 GMT-0700 (US Mountain Standard Time) | | 2
+Tue Jul 03 2018 02:09:59 GMT-0700 (US Mountain Standard Time) | | 1
+Tue Jul 03 2018 02:10:02 GMT-0700 (US Mountain Standard Time) | | 1
+Tue Jul 03 2018 02:10:58 GMT-0700 (US Mountain Standard Time) | | New user: daytdog mobile has joined the server!
+Tue Jul 03 2018 02:11:37 GMT-0700 (US Mountain Standard Time) | | No Points! New user created in database for user: daytdog mobile#8481
+Tue Jul 03 2018 02:16:05 GMT-0700 (US Mountain Standard Time) | | Uncaught Exception:  ReferenceError: user is not defined
+    at C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\cookies.js:41:17
+    at C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\model.js:4236:16
+    at process.nextTick (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\services\query\completeMany.js:35:39)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Tue Jul 03 2018 02:16:53 GMT-0700 (US Mountain Standard Time) | | (node:42192) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 02:16:54 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 02:16:54 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 02:16:58 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 02:17:25 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 02:18:48 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 02:24:00 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 02:52:03 GMT-0700 (US Mountain Standard Time) | | [ 3, 9, 33, 103, 198, 200, 726, 764, 984 ]
+Tue Jul 03 2018 02:52:31 GMT-0700 (US Mountain Standard Time) | | [ 3, 9, 33, 103, 198, 200, 200, 726, 764, 984 ]
+Tue Jul 03 2018 02:58:04 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 02:58:04 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b35b3e0c704aba1a482f98c,
+    username: 'daytdog',
+    userID: '125089022803574784',
+    tag: 'daytdog#0001',
+    points: 257,
+    __v: 0 } ]
+Tue Jul 03 2018 02:58:11 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 02:58:11 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b35fc3cc704aba1a482f98d,
+    username: 'defeated',
+    userID: '263220253641670656',
+    tag: 'defeated#2463',
+    points: 5,
+    __v: 0 },
+  { _id: 5b35fc3cc704aba1a482f98d,
+    username: 'defeated',
+    userID: '263220253641670656',
+    tag: 'defeated#2463',
+    points: 5,
+    __v: 0 },
+  { _id: 5b35fc3cc704aba1a482f98d,
+    username: 'defeated',
+    userID: '263220253641670656',
+    tag: 'defeated#2463',
+    points: 5,
+    __v: 0 },
+  { _id: 5b35fc3cc704aba1a482f98d,
+    username: 'defeated',
+    userID: '263220253641670656',
+    tag: 'defeated#2463',
+    points: 5,
+    __v: 0 } ]
+Tue Jul 03 2018 03:00:49 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:00:49 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b3b3dc9a619e0483cbd8926,
+    username: 'daytdog mobile',
+    userID: '130468141351305216',
+    tag: 'daytdog mobile#8481',
+    points: 11,
+    __v: 0 },
+  { _id: 5b3b3dc9a619e0483cbd8926,
+    username: 'daytdog mobile',
+    userID: '130468141351305216',
+    tag: 'daytdog mobile#8481',
+    points: 11,
+    __v: 0 } ]
+Tue Jul 03 2018 03:00:49 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b3b3dc9a619e0483cbd8926,
+    username: 'daytdog mobile',
+    userID: '130468141351305216',
+    tag: 'daytdog mobile#8481',
+    points: 11,
+    __v: 0 },
+  { _id: 5b3b3dc9a619e0483cbd8926,
+    username: 'daytdog mobile',
+    userID: '130468141351305216',
+    tag: 'daytdog mobile#8481',
+    points: 11,
+    __v: 0 } ]
+Tue Jul 03 2018 03:01:19 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:01:19 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 },
+  { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 },
+  { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 } ]
+Tue Jul 03 2018 03:01:19 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 } ]
+Tue Jul 03 2018 03:01:44 GMT-0700 (US Mountain Standard Time) | | (node:38056) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:01:45 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:01:45 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:01:49 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:01:49 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 },
+  { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 },
+  { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 } ]
+Tue Jul 03 2018 03:01:49 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 } ]
+Tue Jul 03 2018 03:03:09 GMT-0700 (US Mountain Standard Time) | | (node:39008) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:03:10 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:03:10 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:03:14 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:03:14 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b35b3e0c704aba1a482f98c,
+    username: 'daytdog',
+    userID: '125089022803574784',
+    tag: 'daytdog#0001',
+    points: 264,
+    __v: 0 } ]
+Tue Jul 03 2018 03:03:14 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b35b3e0c704aba1a482f98c,
+    username: 'daytdog',
+    userID: '125089022803574784',
+    tag: 'daytdog#0001',
+    points: 264,
+    __v: 0 },
+  { _id: 5b35b3e0c704aba1a482f98c,
+    username: 'daytdog',
+    userID: '125089022803574784',
+    tag: 'daytdog#0001',
+    points: 264,
+    __v: 0 },
+  { _id: 5b35b3e0c704aba1a482f98c,
+    username: 'daytdog',
+    userID: '125089022803574784',
+    tag: 'daytdog#0001',
+    points: 264,
+    __v: 0 } ]
+Tue Jul 03 2018 03:03:30 GMT-0700 (US Mountain Standard Time) | | (node:41828) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:03:31 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:03:31 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:03:34 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:03:34 GMT-0700 (US Mountain Standard Time) | | 3
+Tue Jul 03 2018 03:03:34 GMT-0700 (US Mountain Standard Time) | | 1
+Tue Jul 03 2018 03:05:35 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:06:31 GMT-0700 (US Mountain Standard Time) | | (node:8868) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:06:32 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:06:32 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:06:36 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:06:50 GMT-0700 (US Mountain Standard Time) | | { Error: Cannot find module './cookikes.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.resolve (internal/module.js:18:19)
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\reload.js:13:31)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:73:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12) code: 'MODULE_NOT_FOUND' }
+Tue Jul 03 2018 03:06:55 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:08:26 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:10:17 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:10:37 GMT-0700 (US Mountain Standard Time) | | (node:35532) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:10:37 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:10:38 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:10:57 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:11:52 GMT-0700 (US Mountain Standard Time) | | (node:39452) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:11:52 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:11:53 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:11:56 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:12:15 GMT-0700 (US Mountain Standard Time) | | (node:42988) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:12:16 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:12:16 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:12:20 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:13:18 GMT-0700 (US Mountain Standard Time) | | (node:42208) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:13:19 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:13:19 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:13:23 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:14:19 GMT-0700 (US Mountain Standard Time) | | (node:35156) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:14:20 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:14:20 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:14:24 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:14:48 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:15:50 GMT-0700 (US Mountain Standard Time) | | (node:34228) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:15:50 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:15:51 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:15:55 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:17:33 GMT-0700 (US Mountain Standard Time) | | (node:32156) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:17:33 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:17:34 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:17:37 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:17:49 GMT-0700 (US Mountain Standard Time) | | (node:1880) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:17:50 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:17:50 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:17:55 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:17:55 GMT-0700 (US Mountain Standard Time) | | swapped { _id: 5b38ab700b3f902214d82a8f,
+  username: 'CookiesAlwaysWin',
+  userID: '230332584276525060',
+  tag: 'CookiesAlwaysWin#0001',
+  points: 7,
+  __v: 0 },
+with { _id: 5b35fc3cc704aba1a482f98d,
+  username: 'defeated',
+  userID: '263220253641670656',
+  tag: 'defeated#2463',
+  points: 5,
+  __v: 0 }
+Tue Jul 03 2018 03:17:55 GMT-0700 (US Mountain Standard Time) | | swapped { _id: 5b3b3dc9a619e0483cbd8926,
+  username: 'daytdog mobile',
+  userID: '130468141351305216',
+  tag: 'daytdog mobile#8481',
+  points: 11,
+  __v: 0 },
+with { _id: 5b35fc3cc704aba1a482f98d,
+  username: 'defeated',
+  userID: '263220253641670656',
+  tag: 'defeated#2463',
+  points: 5,
+  __v: 0 }
+Tue Jul 03 2018 03:17:55 GMT-0700 (US Mountain Standard Time) | | swapped { _id: 5b3b3dc9a619e0483cbd8926,
+  username: 'daytdog mobile',
+  userID: '130468141351305216',
+  tag: 'daytdog mobile#8481',
+  points: 11,
+  __v: 0 },
+with { _id: 5b38ab700b3f902214d82a8f,
+  username: 'CookiesAlwaysWin',
+  userID: '230332584276525060',
+  tag: 'CookiesAlwaysWin#0001',
+  points: 7,
+  __v: 0 }
+Tue Jul 03 2018 03:20:05 GMT-0700 (US Mountain Standard Time) | | (node:6836) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:20:06 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:20:09 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:20:14 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:20:23 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:20:28 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:24:04 GMT-0700 (US Mountain Standard Time) | | (node:29080) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:24:05 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:24:05 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:25:13 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:25:34 GMT-0700 (US Mountain Standard Time) | | (node:43384) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:25:34 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:25:35 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:25:42 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:25:52 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:26:06 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:32:03 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:32:09 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:32:56 GMT-0700 (US Mountain Standard Time) | | (node:42884) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:32:56 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:32:57 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:33:02 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:33:18 GMT-0700 (US Mountain Standard Time) | | (node:35592) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:33:19 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:33:19 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:33:23 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:41:11 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:41:11 GMT-0700 (US Mountain Standard Time) | | [ 0 ]
+Tue Jul 03 2018 03:41:11 GMT-0700 (US Mountain Standard Time) | | [ 1 ]
+Tue Jul 03 2018 03:41:11 GMT-0700 (US Mountain Standard Time) | | [ 2 ]
+Tue Jul 03 2018 03:41:11 GMT-0700 (US Mountain Standard Time) | | [ 3 ]
+Tue Jul 03 2018 03:43:55 GMT-0700 (US Mountain Standard Time) | | (node:27320) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:43:55 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:43:56 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:44:00 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:44:13 GMT-0700 (US Mountain Standard Time) | | (node:15712) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:44:13 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:44:14 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:44:17 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:46:45 GMT-0700 (US Mountain Standard Time) | | (node:17928) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:46:46 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:46:46 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:46:51 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:47:09 GMT-0700 (US Mountain Standard Time) | | (node:33008) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:47:10 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:47:10 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:47:15 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:48:02 GMT-0700 (US Mountain Standard Time) | | (node:36024) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:48:03 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:48:04 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:48:07 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:48:34 GMT-0700 (US Mountain Standard Time) | | (node:30776) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:48:35 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:48:35 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:48:43 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:51:01 GMT-0700 (US Mountain Standard Time) | | (node:39896) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:51:01 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:51:02 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:51:05 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 03:51:43 GMT-0700 (US Mountain Standard Time) | | (node:37164) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:51:44 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:51:44 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:51:48 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:52:49 GMT-0700 (US Mountain Standard Time) | | (node:43540) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:52:50 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:52:50 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:52:54 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:53:01 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:53:10 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:54:23 GMT-0700 (US Mountain Standard Time) | | (node:39100) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:54:23 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:54:24 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:54:27 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:55:21 GMT-0700 (US Mountain Standard Time) | | (node:34996) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:55:21 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:55:22 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:55:25 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 03:55:34 GMT-0700 (US Mountain Standard Time) | | (node:41988) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:55:34 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:55:35 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:55:38 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:57:11 GMT-0700 (US Mountain Standard Time) | | (node:30712) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:57:12 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:57:12 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:57:16 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 03:58:06 GMT-0700 (US Mountain Standard Time) | | (node:44108) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:58:07 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:58:07 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:58:10 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 03:59:15 GMT-0700 (US Mountain Standard Time) | | (node:38856) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 03:59:15 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 03:59:16 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 03:59:19 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 04:00:09 GMT-0700 (US Mountain Standard Time) | | (node:30584) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:00:09 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:00:10 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:00:13 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 04:00:19 GMT-0700 (US Mountain Standard Time) | | (node:44276) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:00:20 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:00:20 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:00:24 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 04:00:25 GMT-0700 (US Mountain Standard Time) | | Uncaught Promise Error: 
+DiscordAPIError: Cannot send an empty message
+    at item.request.gen.end (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\rest\RequestHandlers\Sequential.js:71:65)
+    at then (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\snekfetch\src\index.js:204:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Tue Jul 03 2018 04:00:35 GMT-0700 (US Mountain Standard Time) | | (node:9732) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:00:35 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:00:36 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:00:40 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 04:00:41 GMT-0700 (US Mountain Standard Time) | | Uncaught Promise Error: 
+DiscordAPIError: Cannot send an empty message
+    at item.request.gen.end (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\rest\RequestHandlers\Sequential.js:71:65)
+    at then (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\snekfetch\src\index.js:204:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Tue Jul 03 2018 04:01:04 GMT-0700 (US Mountain Standard Time) | | (node:27228) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:01:04 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:01:05 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:01:09 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 04:01:16 GMT-0700 (US Mountain Standard Time) | | Uncaught Promise Error: 
+DiscordAPIError: Cannot send an empty message
+    at item.request.gen.end (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\rest\RequestHandlers\Sequential.js:71:65)
+    at then (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\snekfetch\src\index.js:204:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Tue Jul 03 2018 04:01:30 GMT-0700 (US Mountain Standard Time) | | (node:3408) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:01:30 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:01:31 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:01:35 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 04:01:36 GMT-0700 (US Mountain Standard Time) | | Uncaught Promise Error: 
+DiscordAPIError: Cannot send an empty message
+    at item.request.gen.end (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\rest\RequestHandlers\Sequential.js:71:65)
+    at then (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\snekfetch\src\index.js:204:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Tue Jul 03 2018 04:02:07 GMT-0700 (US Mountain Standard Time) | | (node:44816) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:02:07 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:02:08 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:02:11 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 04:02:11 GMT-0700 (US Mountain Standard Time) | | [ { _id: 5b35b3e0c704aba1a482f98c,
+    username: 'daytdog',
+    userID: '125089022803574784',
+    tag: 'daytdog#0001',
+    points: 313,
+    __v: 0 },
+  { _id: 5b3b3dc9a619e0483cbd8926,
+    username: 'daytdog mobile',
+    userID: '130468141351305216',
+    tag: 'daytdog mobile#8481',
+    points: 11,
+    __v: 0 },
+  { _id: 5b38ab700b3f902214d82a8f,
+    username: 'CookiesAlwaysWin',
+    userID: '230332584276525060',
+    tag: 'CookiesAlwaysWin#0001',
+    points: 7,
+    __v: 0 },
+  [ { _id: 5b35fc3cc704aba1a482f98d,
+      username: 'defeated',
+      userID: '263220253641670656',
+      tag: 'defeated#2463',
+      points: 5,
+      __v: 0 } ] ]
+Tue Jul 03 2018 04:04:08 GMT-0700 (US Mountain Standard Time) | | (node:9232) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:04:09 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:04:09 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:04:14 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 04:04:39 GMT-0700 (US Mountain Standard Time) | | (node:33300) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:04:40 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:04:40 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:04:44 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 04:05:13 GMT-0700 (US Mountain Standard Time) | | (node:9716) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:05:14 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:05:14 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:05:19 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 04:05:27 GMT-0700 (US Mountain Standard Time) | | (node:31916) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:05:28 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:05:28 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:05:32 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Tue Jul 03 2018 04:06:04 GMT-0700 (US Mountain Standard Time) | | (node:3152) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:06:05 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:06:05 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:06:10 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 04:06:38 GMT-0700 (US Mountain Standard Time) | | (node:38028) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:06:38 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:06:39 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:07:00 GMT-0700 (US Mountain Standard Time) | | (node:24144) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:07:00 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:07:01 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:07:12 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 04:07:43 GMT-0700 (US Mountain Standard Time) | | (node:1880) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:07:44 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:07:44 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:07:48 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Tue Jul 03 2018 04:08:34 GMT-0700 (US Mountain Standard Time) | | (node:18400) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:08:35 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:08:35 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:08:38 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 04:09:10 GMT-0700 (US Mountain Standard Time) | | (node:40940) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:09:10 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:09:11 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:09:14 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 04:09:22 GMT-0700 (US Mountain Standard Time) | | (node:39648) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:09:23 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:09:23 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:09:26 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Tue Jul 03 2018 04:11:20 GMT-0700 (US Mountain Standard Time) | | (node:25244) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:11:21 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:11:21 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:11:25 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 04:11:34 GMT-0700 (US Mountain Standard Time) | | (node:7240) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:11:35 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:11:35 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:11:39 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Tue Jul 03 2018 04:12:55 GMT-0700 (US Mountain Standard Time) | | (node:19828) ExperimentalWarning: The http2 module is an experimental API.
+Tue Jul 03 2018 04:12:56 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 03 2018 04:12:56 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Tue Jul 03 2018 04:12:59 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Thu Jul 05 2018 00:36:12 GMT-0700 (US Mountain Standard Time) | | (node:44176) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:36:13 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:36:13 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:36:18 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Thu Jul 05 2018 00:36:24 GMT-0700 (US Mountain Standard Time) | | (node:35088) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:36:25 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:36:25 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:36:29 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 00:36:36 GMT-0700 (US Mountain Standard Time) | | (node:22088) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:36:37 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:36:37 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:36:41 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 00:37:04 GMT-0700 (US Mountain Standard Time) | | (node:7296) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:37:05 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:37:05 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:37:10 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 00:37:18 GMT-0700 (US Mountain Standard Time) | | (node:1044) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:37:19 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:37:20 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:37:23 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 00:37:44 GMT-0700 (US Mountain Standard Time) | | (node:32336) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:37:45 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:37:45 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:37:49 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Thu Jul 05 2018 00:45:45 GMT-0700 (US Mountain Standard Time) | | (node:39784) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:45:45 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:45:46 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:45:50 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 00:46:24 GMT-0700 (US Mountain Standard Time) | | (node:42276) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:46:25 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:46:25 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:46:32 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Thu Jul 05 2018 00:51:09 GMT-0700 (US Mountain Standard Time) | | (node:20060) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:51:09 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:51:10 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:51:11 GMT-0700 (US Mountain Standard Time) | | No Points! New user created in database for user: PolyMatterDiscord#5855
+Thu Jul 05 2018 00:51:13 GMT-0700 (US Mountain Standard Time) | | No Points! New user created in database for user: PolyMatterDiscord#5855
+Thu Jul 05 2018 00:54:11 GMT-0700 (US Mountain Standard Time) | | selected user: PolyMatterDiscord
+Thu Jul 05 2018 00:55:26 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Thu Jul 05 2018 00:55:35 GMT-0700 (US Mountain Standard Time) | | (node:43748) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:55:36 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:55:36 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:55:44 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 00:58:09 GMT-0700 (US Mountain Standard Time) | | (node:43244) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:58:10 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 00:58:10 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:58:13 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Thu Jul 05 2018 00:59:58 GMT-0700 (US Mountain Standard Time) | | (node:28988) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 00:59:59 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 00:59:59 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 01:00:40 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Thu Jul 05 2018 01:01:13 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 01:02:29 GMT-0700 (US Mountain Standard Time) | | selected user: PolyMatterDiscord
+Thu Jul 05 2018 01:03:14 GMT-0700 (US Mountain Standard Time) | | selected user: CookiesAlwaysWin
+Thu Jul 05 2018 01:04:47 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 01:05:10 GMT-0700 (US Mountain Standard Time) | | (node:11656) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 01:05:10 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 01:05:11 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 01:05:14 GMT-0700 (US Mountain Standard Time) | | selected user: PolyMatterDiscord
+Thu Jul 05 2018 01:05:47 GMT-0700 (US Mountain Standard Time) | | (node:26580) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 01:05:47 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 01:05:48 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 01:05:54 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog
+Thu Jul 05 2018 01:06:03 GMT-0700 (US Mountain Standard Time) | | (node:26172) ExperimentalWarning: The http2 module is an experimental API.
+Thu Jul 05 2018 01:06:03 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 05 2018 01:06:04 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Thu Jul 05 2018 01:06:07 GMT-0700 (US Mountain Standard Time) | | selected user: PolyMatterDiscord
+Thu Jul 05 2018 23:15:35 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 21:31:17 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 22:05:19 GMT-0700 (US Mountain Standard Time) | | selected user: daytdog mobile
+Fri Jul 06 2018 22:05:48 GMT-0700 (US Mountain Standard Time) | | selected user: PolyMatterDiscord
+Fri Jul 06 2018 22:34:41 GMT-0700 (US Mountain Standard Time) | | selected user: defeated
+Fri Jul 06 2018 22:56:45 GMT-0700 (US Mountain Standard Time) | | (node:15704) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 22:56:46 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 22:56:46 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 22:58:19 GMT-0700 (US Mountain Standard Time) | | (node:13440) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 22:58:19 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 22:58:20 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 22:58:22 GMT-0700 (US Mountain Standard Time) | | { ValidationError: User validation failed: tag: Path `tag` is required.
+    at ValidationError.inspect (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\error\validation.js:56:24)
+    at formatValue (util.js:430:38)
+    at inspect (util.js:324:10)
+    at format (util.js:191:12)
+    at Console.console.log (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\utilFunctions.js:20:54)
+    at newUser.save.then.catch.err (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\createuser.js:23:31)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  errors: 
+   { tag: 
+      { ValidatorError: Path `tag` is required.
+    at new ValidatorError (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\error\validator.js:25:11)
+    at validate (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\schematype.js:805:13)
+    at C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\schematype.js:854:11
+    at Array.forEach (<anonymous>)
+    at SchemaString.SchemaType.doValidate (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\schematype.js:814:19)
+    at C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongoose\lib\document.js:1727:9
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+        message: 'Path `tag` is required.',
+        name: 'ValidatorError',
+        properties: [Object],
+        kind: 'required',
+        path: 'tag',
+        value: undefined,
+        reason: undefined,
+        '$isValidatorError': true } },
+  _message: 'User validation failed',
+  name: 'ValidationError' }
+Fri Jul 06 2018 22:58:23 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 22:58:46 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 22:58:47 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4056959e248a3480d75ed5,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:01:05 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:01:05 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4057209e248a3480d75ed6,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:01:21 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:01:21 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4057309e248a3480d75ed7,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:02:26 GMT-0700 (US Mountain Standard Time) | | (node:916) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:02:27 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:02:27 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:02:30 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:02:30 GMT-0700 (US Mountain Standard Time) | | { _id: 5b405775cbc8700394425ac6,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:02:31 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:03:29 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:03:29 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4057b0cbc8700394425ac7,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:03:30 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:07:05 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:07:05 GMT-0700 (US Mountain Standard Time) | | { _id: 5b405888cbc8700394425ac8,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:07:06 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:07:17 GMT-0700 (US Mountain Standard Time) | | (node:43152) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:07:18 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:07:18 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:07:31 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:07:31 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4058a2cdce05a890778c70,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:07:32 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:09:25 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:09:25 GMT-0700 (US Mountain Standard Time) | | { _id: 5b405914cdce05a890778c71,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:09:54 GMT-0700 (US Mountain Standard Time) | | (node:40912) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:09:54 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:09:55 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:09:57 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:09:57 GMT-0700 (US Mountain Standard Time) | | { _id: 5b40593426f3a49fd02a366a,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:09:58 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:10:21 GMT-0700 (US Mountain Standard Time) | | (node:44120) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:10:21 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:10:22 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:10:25 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:10:25 GMT-0700 (US Mountain Standard Time) | | { _id: 5b40595005bfc2ac5851238e,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:11:03 GMT-0700 (US Mountain Standard Time) | | (node:40828) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:11:04 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:11:04 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:11:07 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:11:07 GMT-0700 (US Mountain Standard Time) | | { _id: 5b40597ad348ea9f7cfd7a21,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:11:27 GMT-0700 (US Mountain Standard Time) | | (node:36808) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:11:28 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:11:28 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:11:30 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:11:30 GMT-0700 (US Mountain Standard Time) | | { _id: 5b405991fb3cbf8fc8bf80fd,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:11:31 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:11:31 GMT-0700 (US Mountain Standard Time) | | { MongoError: unknown top level operator: $__
+    at C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongodb-core\lib\connection\pool.js:593:63
+    at authenticateStragglers (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongodb-core\lib\connection\pool.js:516:16)
+    at Connection.messageHandler (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongodb-core\lib\connection\pool.js:552:5)
+    at emitMessageHandler (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongodb-core\lib\connection\connection.js:309:10)
+    at Socket.<anonymous> (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\mongodb-core\lib\connection\connection.js:452:17)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+  name: 'MongoError',
+  message: 'unknown top level operator: $__',
+  ok: 0,
+  errmsg: 'unknown top level operator: $__',
+  code: 2,
+  codeName: 'BadValue' }
+Fri Jul 06 2018 23:12:03 GMT-0700 (US Mountain Standard Time) | | (node:31088) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:12:03 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:12:04 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:12:17 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:12:17 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4059c023754479704170bb,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:12:18 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:12:31 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:12:31 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4059ce23754479704170bc,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:12:32 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:12:33 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:12:33 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4059d023754479704170bd,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:12:34 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:12:38 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:12:38 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:12:38 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4059d523754479704170be,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:12:39 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:12:40 GMT-0700 (US Mountain Standard Time) | | { _id: 5b4059d623754479704170bf,
+  username: 'daytdog',
+  userID: '125089022803574784',
+  tag: 'daytdog#0001',
+  points: 0,
+  __v: 0 }
+Fri Jul 06 2018 23:12:41 GMT-0700 (US Mountain Standard Time) | | Duplicate User Detected! Deleting new user...
+Fri Jul 06 2018 23:17:16 GMT-0700 (US Mountain Standard Time) | | (node:33568) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:17:17 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:17:17 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:52:13 GMT-0700 (US Mountain Standard Time) | | User PolyMatterDiscord has left the server.
+Fri Jul 06 2018 23:52:27 GMT-0700 (US Mountain Standard Time) | | New user: PolyMatterDiscord has joined the server!
+Fri Jul 06 2018 23:52:57 GMT-0700 (US Mountain Standard Time) | | (node:32764) ExperimentalWarning: The http2 module is an experimental API.
+Fri Jul 06 2018 23:52:58 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Fri Jul 06 2018 23:52:58 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Fri Jul 06 2018 23:53:01 GMT-0700 (US Mountain Standard Time) | | User PolyMatterDiscord has left the server.
+Fri Jul 06 2018 23:53:05 GMT-0700 (US Mountain Standard Time) | | New user: PolyMatterDiscord has joined the server!
+Fri Jul 06 2018 23:53:06 GMT-0700 (US Mountain Standard Time) | | New user has no database entry! Created new entry in database for: PolyMatterDiscord#5855
+Sat Jul 07 2018 00:03:05 GMT-0700 (US Mountain Standard Time) | | (node:38916) ExperimentalWarning: The http2 module is an experimental API.
+Sat Jul 07 2018 00:03:06 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sat Jul 07 2018 00:03:06 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 01:02:37 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 13:55:02 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:23:59 GMT-0700 (US Mountain Standard Time) | | (node:27764) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:24:00 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:24:00 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:25:09 GMT-0700 (US Mountain Standard Time) | | (node:11728) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:25:10 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:25:10 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:26:33 GMT-0700 (US Mountain Standard Time) | | (node:42280) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:26:33 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:26:34 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:26:35 GMT-0700 (US Mountain Standard Time) | | TypeError: Cannot read property 'id' of undefined
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:14:59)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:74:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Sun Jul 08 2018 15:33:16 GMT-0700 (US Mountain Standard Time) | | (node:32672) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:33:17 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:33:17 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:34:53 GMT-0700 (US Mountain Standard Time) | | (node:27444) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:34:54 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:34:54 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:34:58 GMT-0700 (US Mountain Standard Time) | | TypeError: message.mentions.first is not a function
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:14:26)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:74:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Sun Jul 08 2018 15:42:30 GMT-0700 (US Mountain Standard Time) | | ReferenceError: userPunished is not defined
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:24:27)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:74:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Sun Jul 08 2018 15:42:53 GMT-0700 (US Mountain Standard Time) | | (node:40852) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:42:53 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:42:54 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:42:55 GMT-0700 (US Mountain Standard Time) | | ReferenceError: userPunished is not defined
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:24:27)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:75:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Sun Jul 08 2018 15:44:01 GMT-0700 (US Mountain Standard Time) | | (node:40164) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:44:02 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:44:02 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:44:05 GMT-0700 (US Mountain Standard Time) | | ReferenceError: Message is not defined
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:15:9)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:75:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Sun Jul 08 2018 15:44:15 GMT-0700 (US Mountain Standard Time) | | (node:40180) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:44:16 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:44:16 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:44:41 GMT-0700 (US Mountain Standard Time) | | (node:31372) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:44:41 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:44:42 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:44:46 GMT-0700 (US Mountain Standard Time) | | ReferenceError: userPunished is not defined
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:17:27)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:75:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Sun Jul 08 2018 15:45:13 GMT-0700 (US Mountain Standard Time) | | (node:31188) ExperimentalWarning: The http2 module is an experimental API.
+Sun Jul 08 2018 15:45:14 GMT-0700 (US Mountain Standard Time) | | Connected to the database!
+Sun Jul 08 2018 15:45:14 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Sun Jul 08 2018 15:45:18 GMT-0700 (US Mountain Standard Time) | | ReferenceError: userPunished is not defined
+    at Object.exports.run (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\assets\commands\punish.js:19:27)
+    at Client.bot.on (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\bot.js:75:15)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at MessageCreateHandler.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\handlers\MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\packets\WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:330:35)
+    at WebSocketConnection.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\discord.js\src\client\websocket\WebSocketConnection.js:293:17)
+    at WebSocket.onMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\EventTarget.js:99:16)
+    at emitOne (events.js:116:13)
+    at WebSocket.emit (events.js:211:7)
+    at Receiver._receiver.onmessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\WebSocket.js:143:47)
+    at Receiver.dataMessage (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:389:14)
+    at Receiver.getData (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:330:12)
+    at Receiver.startLoop (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:165:16)
+    at Receiver.add (C:\Users\Dayton\Desktop\dev\discord-bots\PolyBot\node_modules\ws\lib\Receiver.js:139:10)
+Mon Jul 09 2018 14:03:59 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Mon Jul 09 2018 17:44:51 GMT-0700 (US Mountain Standard Time) | | User defeated has left the server.
+Mon Jul 09 2018 17:50:10 GMT-0700 (US Mountain Standard Time) | | New user: defeated has joined the server!
+Mon Jul 09 2018 17:56:22 GMT-0700 (US Mountain Standard Time) | | User defeated has left the server.
+Mon Jul 09 2018 17:57:44 GMT-0700 (US Mountain Standard Time) | | New user: defeated has joined the server!
+Mon Jul 09 2018 17:59:21 GMT-0700 (US Mountain Standard Time) | | User defeated has left the server.
+Tue Jul 10 2018 11:18:16 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Tue Jul 10 2018 23:18:30 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Wed Jul 11 2018 22:33:28 GMT-0700 (US Mountain Standard Time) | | { Error: getaddrinfo ENOTFOUND gateway.discord.gg gateway.discord.gg:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'gateway.discord.gg',
+  host: 'gateway.discord.gg',
+  port: 443,
+  type: 'error',
+  target: 
+   WebSocket {
+     domain: null,
+     _events: 
+      { message: [Object],
+        open: [Object],
+        error: [Object],
+        close: [Object] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     readyState: 0,
+     bytesReceived: 0,
+     extensions: {},
+     protocol: '',
+     _binaryType: 'nodebuffer',
+     _finalize: [Function: bound finalize],
+     _finalizeCalled: false,
+     _closeMessage: null,
+     _closeTimer: null,
+     _closeCode: null,
+     _receiver: null,
+     _sender: null,
+     _socket: null,
+     _ultron: null,
+     protocolVersion: 13,
+     _isServer: false,
+     url: 'wss://gateway.discord.gg/?v=6&encoding=json',
+     _req: null } }
+Wed Jul 11 2018 22:33:28 GMT-0700 (US Mountain Standard Time) | | { Error: getaddrinfo ENOTFOUND gateway.discord.gg gateway.discord.gg:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'gateway.discord.gg',
+  host: 'gateway.discord.gg',
+  port: 443,
+  type: 'error',
+  target: 
+   WebSocket {
+     domain: null,
+     _events: 
+      { message: [Object],
+        open: [Object],
+        error: [Object],
+        close: [Object] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     readyState: 0,
+     bytesReceived: 0,
+     extensions: {},
+     protocol: '',
+     _binaryType: 'nodebuffer',
+     _finalize: [Function: bound finalize],
+     _finalizeCalled: false,
+     _closeMessage: null,
+     _closeTimer: null,
+     _closeCode: null,
+     _receiver: null,
+     _sender: null,
+     _socket: null,
+     _ultron: null,
+     protocolVersion: 13,
+     _isServer: false,
+     url: 'wss://gateway.discord.gg/?v=6&encoding=json',
+     _req: null } }
+Wed Jul 11 2018 22:33:34 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
+Thu Jul 12 2018 20:50:09 GMT-0700 (US Mountain Standard Time) | | I've joined the server!
