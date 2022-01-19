@@ -1,2 +1,2 @@
 # polybot
-Small bot for the PolyMatter discord server
+Small bot created for the PolyMatter YouTube discord server
